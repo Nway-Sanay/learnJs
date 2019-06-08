@@ -1,1 +1,1 @@
-console.log('Hello JS');
+console.log('Let get rediculous');
